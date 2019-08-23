@@ -1,0 +1,5 @@
+import random
+desserts = ["red velvet cake", "souffle", "ice cream", "macaron", "sundae", "flan", "tarimisu"]
+desert = random.choice(desserts)
+
+print(desserts)
